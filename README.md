@@ -64,8 +64,8 @@ Data Sources → Processing → Scoring Engine → Ranking → API → Frontend
 
 ## 📫 Contact
 
-- Telegram: https://t.me/yu_moxing
-- GitHub: https://github.com/yu-moxing
+- Telegram: [https://t.me/yu_moxing](https://t.me/yu_moxing)
+- GitHub: [https://github.com/yu-moxing](https://github.com/yu-moxing)
 
 Verified profile:
-- Bondex: https://network.bondex.app/p/yu_moxing
+- Bondex: [https://network.bondex.app/p/yu_moxing](https://network.bondex.app/p/yu_moxing)
