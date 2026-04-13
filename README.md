@@ -1,3 +1,14 @@
+<p align="left">
+  Language
+</p>
+
+<p align="left">
+  <strong>English</strong> | 
+  <a href="./README.zh-CN.md">中文</a>
+</p>
+
+---
+
 # MoXing Yu
 
 Web3 Data System Engineer | DEX Analytics | Token Ranking
