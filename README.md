@@ -46,19 +46,11 @@ Data Sources → Processing → Scoring Engine → Ranking → API → Frontend
 
 ---
 
-### Grid Trading System
+### E-commerce Price Comparison Search Platform (80K+ Daily Traffic)
 
-- Automated trading system with dynamic position sizing  
-- Strategy based on moving averages and FGI signals  
-- Includes risk control mechanisms  
-
----
-
-### 3D RPG Engine & Editor Toolkit
-
-- Built a 3D RPG demo using DirectX and VC++  
-- Developed scripting system for game logic  
-- Designed full content creation toolchain  
+Built and operated a price comparison search engine aggregating data from 20+ e-commerce sites.  
+Implemented Lucene-based search, automated product classification (85%+ accuracy), and a script-driven crawling system adaptable to multiple site structures.  
+Reached ~80K peak daily visits via SEO before shutdown due to search engine policy changes.
 
 ---
 
